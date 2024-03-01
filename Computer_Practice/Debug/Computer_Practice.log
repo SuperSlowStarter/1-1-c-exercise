@@ -1,0 +1,13 @@
+﻿빌드 시작: 2023-03-30 오전 8:55:47
+     1>2 노드의 "F:\컴퓨터언어실습_C\Computer_Practice\Computer_Practice.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Computer_Practice.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt 3_23_Practice.c
+         3_23_Practice.c
+     1>c1 : fatal error C1083: 소스 파일을 열 수 없습니다. '3_23_Practice.c': No such file or directory
+     1>"F:\컴퓨터언어실습_C\Computer_Practice\Computer_Practice.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.74
